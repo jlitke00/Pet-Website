@@ -1,0 +1,14 @@
+nav {
+    height: 50px;
+    background-color: darkgray;
+    width: 100%;
+}
+.pet_info {
+    height: 500px;
+    background-color: lightblue;
+}
+
+.inline-block {
+    display: inline-block;
+    height: 50px;
+}
